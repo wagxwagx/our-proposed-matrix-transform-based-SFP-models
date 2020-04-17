@@ -1,3 +1,6 @@
+https://www.researchgate.net/publication/340271936_The_source_code_is_illustrating_the_principle_of_our_proposed_matrix_transform_based_SFP_models
+
+
 The source code is illustrating the principle of our proposed matrix transform based SFP models.
 Researchers can find the differences between the proposed representations with the traditional one.
 Any usage and modification, please cite our papers:
